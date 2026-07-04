@@ -34,8 +34,11 @@ SBP started cutting rates in 2024. By mid-2025 the rate was back down to 14%. As
 Dashboard Pages
 
 1. Sector Health Overview: The big picture overall health of the sector, profit trends, and how well-capitalised banks are.
+
 2. Asset Quality & Credit Risk: How many loans are going bad, how covered banks are against losses, and how profits moved over time
+
 3. Macro & Interest Rate Impact: How rising and falling interest rates directly affected bank earnings and lending behaviour
+
 4. Recommendations: Four practical suggestions for what Pakistan's banks should do next, based on the data
 
 
@@ -54,45 +57,47 @@ What Numbers Are Tracked
 
 How profitable are banks?
 
-
 Return on Equity (ROE): How much profit banks make compared to what shareholders invested
+
 Net Interest Margin (NIM): The difference between what banks earn on loans vs what they pay on deposits
+
 Cost-to-Income Ratio: How efficiently banks are running their operations
+
 Profit Before Tax: Total sector profits in PKR billions
 
 
 How healthy are the loans?
 
-
 Gross NPL Ratio: What percentage of loans are not being repaid
+
 Provision Coverage: How much emergency buffer banks have set aside against bad loans
 
 
 How big is the sector?
 
-
 Total Assets: The total size of Pakistan's banking system in PKR trillions
+
 Advance-to-Deposit Ratio (ADR): How much of customer deposits are being lent out
 
 
 How safe are the banks?
-
 
 Capital Adequacy Ratio (CAR): Whether banks have enough capital to survive losses (SBP requires minimum 11.5%)
 
 
 What is the economy doing?
 
-
 SBP Policy Rate: The interest rate SBP sets, which drives all other rates
-CPI Inflation: How fast prices are rising in Pakistan
 
+CPI Inflation: How fast prices are rising in Pakistan
 
 
 Tools Used to Build This
 
 MySQL: Stored and organised all the data in a structured database with 5 linked tables
+
 Microsoft Excel: Connected to the database and used as the data preparation layer
+
 Power BI: Built the 4-page interactive dashboard with charts, KPI cards, and filters
 
 
@@ -108,10 +113,14 @@ Files in This Repository
 pakistan-banking-sector-dashboard
 
 README.md: This file project explanation
-Sql_Queries.sql: All database setup and data in one file
-final_Merged_data_dashboard.xlsx: The prepared data file Excel/Power BI read from
-power bi: Interactive Dashboard Link
 
+Sql_Queries.sql: All database setup and data in one file
+
+final_Merged_data_dashboard.xlsx: The prepared data file Excel/Power BI read from
+
+power bi: # Pakistan Banking Sector Performance Dashboard
+
+### [Click here to view the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U4MzEzNDgtODhiMC00ZDk5LWI0NTMtMjYzMTYyYTk3ZTdkIiwidCI6ImI4ZTY4ZTg5LWZiZGMtNDkxYS1iOGMyLWY1Nzk2ZTFhNDBiOSIsImMiOjl9)
 
 
 Skills This Project Demonstrates
