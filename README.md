@@ -6,12 +6,12 @@ What Is This Project?
 
 Every six months, the State Bank of Pakistan publishes a report showing how the entire banking sector is doing how much profit banks made, how many loans went bad, how much money they are holding, and so on. This project takes that data, organises it in a database, and turns it into a visual dashboard that anyone can read and understand.
 
-The goal was to answer one question: what happened to Pakistan's banks when interest rates went from 7% all the way up to 22% — and then back down again?
+The goal was to answer one question: what happened to Pakistan's banks when interest rates went from 7% all the way up to 22% and then back down again?
 
 
 Why Does This Matter?
 
-Between 2021 and 2023, the State Bank of Pakistan raised interest rates sharply to fight inflation. This was the biggest rate increase in Pakistan's history. Higher interest rates affect everyone — businesses borrowing money, people taking home loans, and especially banks themselves.
+Between 2021 and 2023, the State Bank of Pakistan raised interest rates sharply to fight inflation. This was the biggest rate increase in Pakistan's history. Higher interest rates affect everyone businesses borrowing money, people taking home loans, and especially banks themselves.
 
 This dashboard shows exactly what happened to the banking sector during that period, using real official numbers not guesses or estimates.
 
